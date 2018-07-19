@@ -1,7 +1,6 @@
 blue 
 green 
 black
-red
 reblace green color
 brown 
 gray
